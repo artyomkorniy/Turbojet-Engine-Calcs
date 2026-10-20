@@ -1,2 +1,2 @@
 # Turbojet-Engine-Calcs
-Modeled the Brayton Cycle and theoretical performance of my hobby turbojet engine
+Modeled the Brayton Cycle and theoretical performance of my hobby turbojet engine which uses an automotive turbo. The Brayton calculates compressor and turbine operating conditions, fuel requirements, and idealized cycle performance. The theoretical performance models nozzle expansion, exhaust velocity, mass flow, and conditional static thrust. From my calculations, the theoretical thrust is 222N. 
